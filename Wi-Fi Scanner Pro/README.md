@@ -11,7 +11,6 @@ Dark + light theme. Same layout, one-click toggle.
 
 ## ✨ Features
 
-[Permalink: ✨ Features](https://github.com/MaksBloxX/Python-Project/blob/main/Wi-Fi%20Scanner%20Pro#-features)
 
 - **Live network discovery** — scans all nearby Wi-Fi networks via `netsh wlan` and shows SSID, signal %, security, band (2.4 / 5 GHz), channel and access-point count
 - **Animated radar view** — polar sweep with per-network dots; distance from center reflects signal strength, colour reflects security (green = WPA, orange = open/WEP), cyan ring = currently connected
@@ -29,7 +28,6 @@ Dark + light theme. Same layout, one-click toggle.
 
 ##  How it works
 
-[Permalink:  How it works](https://github.com/MaksBloxX/Python-Project/blob/main/Wi-Fi%20Scanner%20Pro#-how-it-works)
 
 1. **Pick your filter** — All, Saved, Strong (70%+), Open / risky, 2.4 GHz, or 5 GHz+
 2. **Press Scan** (or F5) — nearby networks populate the table instantly
@@ -40,7 +38,6 @@ Dark + light theme. Same layout, one-click toggle.
 
 ## 💻 Run locally
 
-[Permalink:  Run locally](https://github.com/MaksBloxX/Python-Project/blob/main/Wi-Fi%20Scanner%20Pro#-run-locally)
 
 No external dependencies — pure Python standard library only.
 
@@ -62,7 +59,6 @@ Or double-click `wifi_scan.py` directly.
 
 ## 📸 Screenshots
 
-[Permalink:  Screenshots](https://github.com/MaksBloxX/Python-Project/blob/main/Wi-Fi%20Scanner%20Pro#-screenshots)
 
 |  |  |
 | :-: | :-: |
@@ -83,7 +79,6 @@ Or double-click `wifi_scan.py` directly.
 
 ## 🗂 Project structure
 
-[Permalink: 🗂 Project structure](https://github.com/MaksBloxX/Python-Project/blob/main/Wi-Fi%20Scanner%20Pro#-project-structure)
 
 ```
 Wi-Fi Scanner Pro/
@@ -101,7 +96,6 @@ Wi-Fi Scanner Pro/
 
 ##  Network table columns
 
-[Permalink:  Network table columns](https://github.com/MaksBloxX/Python-Project/blob/main/Wi-Fi%20Scanner%20Pro#-network-table-columns)
 
 | Column | Description |
 | --- | --- |
@@ -119,8 +113,6 @@ Wi-Fi Scanner Pro/
 
 ## ️ Keyboard shortcuts
 
-[Permalink: ⌨️ Keyboard shortcuts](https://github.com/MaksBloxX/Python-Project/blob/main/Wi-Fi%20Scanner%20Pro#-keyboard-shortcuts)
-
 | Shortcut | Action |
 | --- | --- |
 | **F5** | Scan now |
@@ -130,7 +122,6 @@ Wi-Fi Scanner Pro/
 
 ## 🛠 Troubleshooting
 
-[Permalink: 🛠 Troubleshooting](https://github.com/MaksBloxX/Python-Project/blob/main/Wi-Fi%20Scanner%20Pro#-troubleshooting)
 
 | Symptom | Fix |
 | --- | --- |
@@ -144,7 +135,5 @@ Wi-Fi Scanner Pro/
 * * *
 
 ## 📄 License
-
-[Permalink:  License](https://github.com/MaksBloxX/Python-Project/blob/main/Wi-Fi%20Scanner%20Pro#-license)
 
 MIT — see [LICENSE](https://github.com/MaksBloxX/Python-Project/blob/main/Wi-Fi%20Scanner%20Pro/LICENSE).
